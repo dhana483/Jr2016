@@ -6,7 +6,6 @@
 #define PCTMIN 0
 #define PCTMAX 100
 
-//Added comments
 int main(void){
   //initialize variables
   int height, row, spaces, stars, percentage, starCount;
